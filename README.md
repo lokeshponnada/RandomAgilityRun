@@ -1,6 +1,10 @@
 # com_random_run
 
-A flutter app for generating random sequence of football run moments
+A flutter app for generating random sequence QuickFeet commands. Now don't depend on a fitness instructor for nailing those quick feet commands.
+Coming UP : Add Timer and TTS which announces the command
+Ambitious Goals : 
+1) Track movement to validate it
+2) Utilize data from Polar Heart Rate Monitor to generate commands based on current heart rate than at a random rate. A good (ML based) implementation should increase agility.
 
 ## Getting Started
 
